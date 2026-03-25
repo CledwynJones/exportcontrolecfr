@@ -1,0 +1,48 @@
+name: Daily eCFR Update Check
+
+on:
+  schedule:
+    # Runs at 12:00 PM UTC every day. You can adjust the cron schedule as needed.
+    - cron: '0 12 * * *'
+  workflow_dispatch: # This allows you to trigger the action manually from the GitHub UI
+
+jobs:
+  check-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to push commits back to the repo
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run eCFR Fetch Script
+        run: python update_ecfr.py
+
+      - name: Commit and Push Changes
+        run: |
+          # Configure Git as the GitHub Actions bot
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Stage the XML folder
+          git add ecfr_data/
+          
+          # Check if there are any staged changes
+          if git diff --staged --quiet; then
+            echo "No changes in the eCFR sections today. Nothing to commit."
+          else
+            echo "Changes detected! Committing and pushing..."
+            git commit -m "Automated update of eCFR XML data"
+            git push
+          fi
