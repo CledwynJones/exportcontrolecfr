@@ -34,14 +34,19 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Stage both the XML folder and the text file
-          git add ecfr_data/ last_run.txt
-          
-          # Check if there are changes SPECIFICALLY in the ecfr_data folder
-          if git diff --staged --quiet -- ecfr_data/; then
+          # 1. Check if there are modifications in the ecfr_data folder BEFORE staging
+          if git diff --quiet ecfr_data/; then
             echo "No changes in the eCFR XML data today. Skipping commit to keep history clean."
           else
-            echo "XML changes detected! Committing updated XML and last_run.txt..."
-            git commit -m "Automated update of eCFR XML data and timestamp"
+            echo "XML changes detected! Generating changelog..."
+            
+            # 2. Extract the exact line-by-line changes and save them to a text file
+            git diff ecfr_data/ > latest_changes.txt
+            
+            # 3. Stage the XML folder, the new changelog, and the last_run.txt file
+            git add ecfr_data/ latest_changes.txt last_run.txt
+            
+            # 4. Commit and push everything to the repository
+            git commit -m "Automated update: eCFR changes detected and logged"
             git push
           fi
