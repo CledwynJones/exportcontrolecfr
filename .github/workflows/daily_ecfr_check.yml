@@ -31,18 +31,17 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          # Configure Git as the GitHub Actions bot
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Stage the XML folder
-          git add ecfr_data/
+          # Stage both the XML folder and the text file
+          git add ecfr_data/ last_run.txt
           
-          # Check if there are any staged changes
-          if git diff --staged --quiet; then
-            echo "No changes in the eCFR sections today. Nothing to commit."
+          # Check if there are changes SPECIFICALLY in the ecfr_data folder
+          if git diff --staged --quiet -- ecfr_data/; then
+            echo "No changes in the eCFR XML data today. Skipping commit to keep history clean."
           else
-            echo "Changes detected! Committing and pushing..."
-            git commit -m "Automated update of eCFR XML data"
+            echo "XML changes detected! Committing updated XML and last_run.txt..."
+            git commit -m "Automated update of eCFR XML data and timestamp"
             git push
           fi
