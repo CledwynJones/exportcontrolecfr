@@ -1,0 +1,103 @@
+diff --git a/ecfr_data/title-10_part-110.xml b/ecfr_data/title-10_part-110.xml
+index 11626ca..c79b5c1 100644
+--- a/ecfr_data/title-10_part-110.xml
++++ b/ecfr_data/title-10_part-110.xml
+@@ -9,7 +9,7 @@
+ <SOURCE>
+ <HED>Source:</HED><PSPACE>43 FR 21641, May 19, 1978, unless otherwise noted.
+ </PSPACE></SOURCE>
+-<DIV6 N="A" TYPE="SUBPART" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-10/part-110/subpart-A&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;10 CFR Part 110 Subpart A&amp;quot;}">
++<DIV6 N="A" TYPE="SUBPART" VOLUME="2" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-10/part-110/subpart-A&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;10 CFR Part 110 Subpart A&amp;quot;}">
+ <HEAD>Subpart A&#x2014;General Provisions</HEAD>
+ <DIV8 N="110.1" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-10/section-110.1&quot;,&quot;citation&quot;:&quot;10 CFR 110.1&quot;}">
+ <HEAD>&#xA7; 110.1 Purpose and scope.</HEAD>
+@@ -241,7 +241,7 @@
+ </DIV8>
+ 
+ </DIV6>
+-<DIV6 N="B" TYPE="SUBPART" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-10/part-110/subpart-B&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;10 CFR Part 110 Subpart B&amp;quot;}">
++<DIV6 N="B" TYPE="SUBPART" VOLUME="2" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-10/part-110/subpart-B&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;10 CFR Part 110 Subpart B&amp;quot;}">
+ <HEAD>Subpart B&#x2014;Exemptions</HEAD>
+ <DIV8 N="110.10" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-10/section-110.10&quot;,&quot;citation&quot;:&quot;10 CFR 110.10&quot;}">
+ <HEAD>&#xA7; 110.10 General.</HEAD>
+@@ -267,7 +267,7 @@
+ </DIV8>
+ 
+ </DIV6>
+-<DIV6 N="C" TYPE="SUBPART" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-10/part-110/subpart-C&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;10 CFR Part 110 Subpart C&amp;quot;}">
++<DIV6 N="C" TYPE="SUBPART" VOLUME="2" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-10/part-110/subpart-C&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;10 CFR Part 110 Subpart C&amp;quot;}">
+ <HEAD>Subpart C&#x2014;Licenses</HEAD>
+ <SOURCE>
+ <HED>Source:</HED><PSPACE>49 FR 47198, Dec. 3, 1984, unless otherwise noted.
+@@ -614,7 +614,7 @@
+ </DIV8>
+ 
+ </DIV6>
+-<DIV6 N="D" TYPE="SUBPART" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-10/part-110/subpart-D&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;10 CFR Part 110 Subpart D&amp;quot;}">
++<DIV6 N="D" TYPE="SUBPART" VOLUME="2" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-10/part-110/subpart-D&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;10 CFR Part 110 Subpart D&amp;quot;}">
+ <HEAD>Subpart D&#x2014;Review of License Applications</HEAD>
+ <DIV8 N="110.40" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-10/section-110.40&quot;,&quot;citation&quot;:&quot;10 CFR 110.40&quot;}">
+ <HEAD>&#xA7; 110.40 Commission review.</HEAD>
+@@ -769,7 +769,7 @@
+ </DIV8>
+ 
+ </DIV6>
+-<DIV6 N="E" TYPE="SUBPART" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-10/part-110/subpart-E&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;10 CFR Part 110 Subpart E&amp;quot;}">
++<DIV6 N="E" TYPE="SUBPART" VOLUME="2" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-10/part-110/subpart-E&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;10 CFR Part 110 Subpart E&amp;quot;}">
+ <HEAD>Subpart E&#x2014;License Terms and Related Provisions</HEAD>
+ <DIV8 N="110.50" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-10/section-110.50&quot;,&quot;citation&quot;:&quot;10 CFR 110.50&quot;}">
+ <HEAD>&#xA7; 110.50 Terms.</HEAD>
+@@ -867,7 +867,7 @@
+ </DIV8>
+ 
+ </DIV6>
+-<DIV6 N="F" TYPE="SUBPART" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-10/part-110/subpart-F&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;10 CFR Part 110 Subpart F&amp;quot;}">
++<DIV6 N="F" TYPE="SUBPART" VOLUME="2" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-10/part-110/subpart-F&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;10 CFR Part 110 Subpart F&amp;quot;}">
+ <HEAD>Subpart F&#x2014;Violations and Enforcement</HEAD>
+ <DIV8 N="110.60" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-10/section-110.60&quot;,&quot;citation&quot;:&quot;10 CFR 110.60&quot;}">
+ <HEAD>&#xA7; 110.60 Violations.</HEAD>
+@@ -950,7 +950,7 @@
+ </DIV8>
+ 
+ </DIV6>
+-<DIV6 N="G" TYPE="SUBPART" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-10/part-110/subpart-G&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;10 CFR Part 110 Subpart G&amp;quot;}">
++<DIV6 N="G" TYPE="SUBPART" VOLUME="2" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-10/part-110/subpart-G&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;10 CFR Part 110 Subpart G&amp;quot;}">
+ <HEAD>Subpart G&#x2014;Public Notification and Availability of Documents and Records</HEAD>
+ <DIV8 N="110.70" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-10/section-110.70&quot;,&quot;citation&quot;:&quot;10 CFR 110.70&quot;}">
+ <HEAD>&#xA7; 110.70 Public notice of receipt of an application.</HEAD>
+@@ -999,7 +999,7 @@
+ </DIV8>
+ 
+ </DIV6>
+-<DIV6 N="H" TYPE="SUBPART" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-10/part-110/subpart-H&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;10 CFR Part 110 Subpart H&amp;quot;}">
++<DIV6 N="H" TYPE="SUBPART" VOLUME="2" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-10/part-110/subpart-H&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;10 CFR Part 110 Subpart H&amp;quot;}">
+ <HEAD>Subpart H&#x2014;Public Participation Procedures Concerning License Applications</HEAD>
+ <DIV8 N="110.80" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-10/section-110.80&quot;,&quot;citation&quot;:&quot;10 CFR 110.80&quot;}">
+ <HEAD>&#xA7; 110.80 Basis for hearings.</HEAD>
+@@ -1139,7 +1139,7 @@
+ </DIV8>
+ 
+ </DIV6>
+-<DIV6 N="I" TYPE="SUBPART" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-10/part-110/subpart-I&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;10 CFR Part 110 Subpart I&amp;quot;}">
++<DIV6 N="I" TYPE="SUBPART" VOLUME="2" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-10/part-110/subpart-I&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;10 CFR Part 110 Subpart I&amp;quot;}">
+ <HEAD>Subpart I&#x2014;Hearings</HEAD>
+ <DIV8 N="110.100" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-10/section-110.100&quot;,&quot;citation&quot;:&quot;10 CFR 110.100&quot;}">
+ <HEAD>&#xA7; 110.100 Public hearings.</HEAD>
+@@ -1275,7 +1275,7 @@
+ </DIV8>
+ 
+ </DIV6>
+-<DIV6 N="J" TYPE="SUBPART" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-10/part-110/subpart-J&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;10 CFR Part 110 Subpart J&amp;quot;}">
++<DIV6 N="J" TYPE="SUBPART" VOLUME="2" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-10/part-110/subpart-J&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;10 CFR Part 110 Subpart J&amp;quot;}">
+ <HEAD>Subpart J&#x2014;Special Procedures for Classified Information in Hearings</HEAD>
+ <DIV8 N="110.120" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-10/section-110.120&quot;,&quot;citation&quot;:&quot;10 CFR 110.120&quot;}">
+ <HEAD>&#xA7; 110.120 Purpose and scope.</HEAD>
+@@ -1339,7 +1339,7 @@
+ </DIV8>
+ 
+ </DIV6>
+-<DIV6 N="K" TYPE="SUBPART" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-10/part-110/subpart-K&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;10 CFR Part 110 Subpart K&amp;quot;}">
++<DIV6 N="K" TYPE="SUBPART" VOLUME="2" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-10/part-110/subpart-K&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;10 CFR Part 110 Subpart K&amp;quot;}">
+ <HEAD>Subpart K&#x2014;Rulemaking</HEAD>
+ <DIV8 N="110.130" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-10/section-110.130&quot;,&quot;citation&quot;:&quot;10 CFR 110.130&quot;}">
+ <HEAD>&#xA7; 110.130 Initiation of rulemaking.</HEAD>
