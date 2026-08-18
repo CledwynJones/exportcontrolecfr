@@ -1,12 +1,35 @@
-diff --git a/ecfr_data/title-22_part-121.xml b/ecfr_data/title-22_part-121.xml
-index 2e2499e..0fd4141 100644
---- a/ecfr_data/title-22_part-121.xml
-+++ b/ecfr_data/title-22_part-121.xml
-@@ -34,6 +34,7 @@
+diff --git a/ecfr_data/title-15_part-744.xml b/ecfr_data/title-15_part-744.xml
+index b5707b1..cfce7b9 100644
+--- a/ecfr_data/title-15_part-744.xml
++++ b/ecfr_data/title-15_part-744.xml
+@@ -3,7 +3,7 @@
+ <HEAD>PART 744&#x2014;CONTROL POLICY: END-USER AND END-USE BASED
+ </HEAD>
+ <AUTH>
+-<HED>Authority:</HED><PSPACE>50 U.S.C. 4801-4852; 50 U.S.C. 4601 <I>et seq.;</I> 50 U.S.C. 1701 <I>et seq.;</I> 22 U.S.C. 3201 <I>et seq.;</I> 42 U.S.C. 2139a; 22 U.S.C. 7201 <I>et seq.;</I> 22 U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 1978 Comp., p. 179; E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 608; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13099, 63 FR 45167, 3 CFR, 1998 Comp., p. 208; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783; E.O. 13224, 66 FR 49079, 3 CFR, 2001 Comp., p. 786; Notice of August 4, 2025, 90 FR 37999 (August 6, 2025); Notice of September 8, 2025, 90 FR 43903 (September 10, 2025); Notice of November 5, 2025, 90 FR 50737 (November 7, 2025).
++<HED>Authority:</HED><PSPACE>50 U.S.C. 4801-4852; 50 U.S.C. 4601 <I>et seq.;</I> 50 U.S.C. 1701 <I>et seq.;</I> 22 U.S.C. 3201 <I>et seq.;</I> 42 U.S.C. 2139a; 22 U.S.C. 7201 <I>et seq.;</I> 22 U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 1978 Comp., p. 179; E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 608; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13099, 63 FR 45167, 3 CFR, 1998 Comp., p. 208; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783; E.O. 13224, 66 FR 49079, 3 CFR, 2001 Comp., p. 786.
+ </PSPACE></AUTH>
+ <SOURCE>
+ <HED>Source:</HED><PSPACE>61 FR 12802, Mar. 25, 1996, unless otherwise noted.
+@@ -548,11 +548,16 @@
+ <P>(ii) 8D992 &#x201C;Software&#x201D; specially designed or modified for the &#x201C;development&#x201D;, &#x201C;production&#x201D; or &#x201C;use&#x201D; of equipment controlled by 8A992.</P>
+ <P>(iii) 8E992 &#x201C;Technology&#x201D; for the &#x201C;development&#x201D;, &#x201C;production&#x201D; or &#x201C;use&#x201D; of equipment controlled by 8A992.</P>
+ <P>(9) Category 9 Propulsion Systems, Space Vehicles and Related Equipment</P>
+-<P>(i) 9A991 &#x201C;Aircraft&#x201D;, n.e.s., and gas turbine engines not controlled by 9A001 or 9A101 and &#x201C;parts&#x201D; and &#x201C;components,&#x201D; n.e.s. (see List of Items Controlled).</P>
+-<P>(ii) 9B990 Vibration test equipment and &#x201C;specially designed&#x201D; &#x201C;parts&#x201D; and &#x201C;components,&#x201D; n.e.s.</P>
+-<P>(iii) 9D991 &#x201C;Software&#x201D;, for the &#x201C;development&#x201D; or &#x201C;production&#x201D; of equipment controlled by 9A991 or 9B991.</P>
+-<P>(iv) 9E991 &#x201C;Technology&#x201D;, for the &#x201C;development&#x201D;, &#x201C;production&#x201D; or &#x201C;use&#x201D; of equipment controlled by 9A991 or 9B991.</P>
+-<CITA TYPE="N">[85 FR 23464, Apr. 28, 2020, as amended at 86 FR 54812, Oct. 5, 2021]
++<P>(i) 9A012 <E T="04">&#x201C;Unmanned Aerial Vehicles,&#x201D; (&#x201C;UAVs&#x201D;), unmanned &#x201C;airships&#x201D;, related equipment and &#x201C;components&#x201D;, controlled by 9A012.a.1 (see List of Items Controlled).</E></P>
++<P>(ii) 9A991 &#x201C;Aircraft&#x201D;, n.e.s., and gas turbine engines not controlled by 9A001 or 9A101 and &#x201C;parts&#x201D; and &#x201C;components,&#x201D; n.e.s. (see List of Items Controlled).</P>
++<P>(iii) 9B990 Vibration test equipment and &#x201C;specially designed&#x201D; &#x201C;parts&#x201D; and &#x201C;components,&#x201D; n.e.s.</P>
++<P>(iv) 9D001 &#x201C;Software&#x201D;, not specified in 9D003 or 9D004, &#x201C;specially designed&#x201D; or modified for the &#x201C;development&#x201D; of equipment or &#x201C;technology&#x201D; controlled by 9A012.a.1.</P>
++<P>(v) 9D002 &#x201C;Software&#x201D;, not specified in 9D003 or 9D004, &#x201C;specially designed&#x201D; or modified for the &#x201C;production&#x201D; of equipment controlled by 9A012.a.1.</P>
++<P>(vi) 9D004 Other &#x201C;software&#x201D; for equipment controlled by 9A012.a.1.</P>
++<P>(vii) 9D991 &#x201C;Software&#x201D;, for the &#x201C;development&#x201D; or &#x201C;production&#x201D; of equipment controlled by 9A991 or 9B991.</P>
++<P>(viii) 9E001 &#x201C;Technology&#x201D; according to the General Technology Note for the &#x201C;development&#x201D; of equipment or &#x201C;software&#x201D;, controlled by 9A012.a.1.</P>
++<P>(ix) 9E991 &#x201C;Technology&#x201D;, for the &#x201C;development&#x201D;, &#x201C;production&#x201D; or &#x201C;use&#x201D; of equipment controlled by 9A991 or 9B991.</P>
++<CITA TYPE="N">[85 FR 23464, Apr. 28, 2020, as amended at 86 FR 54812, Oct. 5, 2021; 91 FR 52504, Aug. 14, 2026]
+ </CITA>
+ </DIV9>
  
- <DIV8 N="121.1" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-22/section-121.1&quot;,&quot;citation&quot;:&quot;22 CFR 121.1&quot;}">
- <HEAD>&#xA7; 121.1 The United States Munitions List.</HEAD>
-+<XREF ID="20260723" REFID="25" AMDINSN="2">Link to an amendment published at 91 FR 46281, July 23, 2026.</XREF>
- <P>(a)-(b) [Reserved]</P>
- <EXTRACT>
- <HD1>Category I&#x2014;Firearms and Related Articles
