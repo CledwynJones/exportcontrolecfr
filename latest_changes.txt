@@ -1,35 +1,42 @@
 diff --git a/ecfr_data/title-15_part-744.xml b/ecfr_data/title-15_part-744.xml
-index b5707b1..cfce7b9 100644
+index cfce7b9..81d70ed 100644
 --- a/ecfr_data/title-15_part-744.xml
 +++ b/ecfr_data/title-15_part-744.xml
 @@ -3,7 +3,7 @@
  <HEAD>PART 744&#x2014;CONTROL POLICY: END-USER AND END-USE BASED
  </HEAD>
  <AUTH>
--<HED>Authority:</HED><PSPACE>50 U.S.C. 4801-4852; 50 U.S.C. 4601 <I>et seq.;</I> 50 U.S.C. 1701 <I>et seq.;</I> 22 U.S.C. 3201 <I>et seq.;</I> 42 U.S.C. 2139a; 22 U.S.C. 7201 <I>et seq.;</I> 22 U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 1978 Comp., p. 179; E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 608; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13099, 63 FR 45167, 3 CFR, 1998 Comp., p. 208; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783; E.O. 13224, 66 FR 49079, 3 CFR, 2001 Comp., p. 786; Notice of August 4, 2025, 90 FR 37999 (August 6, 2025); Notice of September 8, 2025, 90 FR 43903 (September 10, 2025); Notice of November 5, 2025, 90 FR 50737 (November 7, 2025).
-+<HED>Authority:</HED><PSPACE>50 U.S.C. 4801-4852; 50 U.S.C. 4601 <I>et seq.;</I> 50 U.S.C. 1701 <I>et seq.;</I> 22 U.S.C. 3201 <I>et seq.;</I> 42 U.S.C. 2139a; 22 U.S.C. 7201 <I>et seq.;</I> 22 U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 1978 Comp., p. 179; E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 608; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13099, 63 FR 45167, 3 CFR, 1998 Comp., p. 208; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783; E.O. 13224, 66 FR 49079, 3 CFR, 2001 Comp., p. 786.
+-<HED>Authority:</HED><PSPACE>50 U.S.C. 4801-4852; 50 U.S.C. 4601 <I>et seq.;</I> 50 U.S.C. 1701 <I>et seq.;</I> 22 U.S.C. 3201 <I>et seq.;</I> 42 U.S.C. 2139a; 22 U.S.C. 7201 <I>et seq.;</I> 22 U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 1978 Comp., p. 179; E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 608; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13099, 63 FR 45167, 3 CFR, 1998 Comp., p. 208; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783; E.O. 13224, 66 FR 49079, 3 CFR, 2001 Comp., p. 786.
++<HED>Authority:</HED><PSPACE>50 U.S.C. 4801-4852; 50 U.S.C. 1701 <I>et seq.;</I> 22 U.S.C. 3201 <I>et seq.;</I> 42 U.S.C. 2139a; 22 U.S.C. 7201 <I>et seq.;</I> 22 U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 1978 Comp., p. 179; E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 608; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13099, 63 FR 45167, 3 CFR, 1998 Comp., p. 208; E.O. 13224, 66 FR 49079, 3 CFR, 2001 Comp., p. 786.
  </PSPACE></AUTH>
  <SOURCE>
  <HED>Source:</HED><PSPACE>61 FR 12802, Mar. 25, 1996, unless otherwise noted.
-@@ -548,11 +548,16 @@
- <P>(ii) 8D992 &#x201C;Software&#x201D; specially designed or modified for the &#x201C;development&#x201D;, &#x201C;production&#x201D; or &#x201C;use&#x201D; of equipment controlled by 8A992.</P>
- <P>(iii) 8E992 &#x201C;Technology&#x201D; for the &#x201C;development&#x201D;, &#x201C;production&#x201D; or &#x201C;use&#x201D; of equipment controlled by 8A992.</P>
- <P>(9) Category 9 Propulsion Systems, Space Vehicles and Related Equipment</P>
--<P>(i) 9A991 &#x201C;Aircraft&#x201D;, n.e.s., and gas turbine engines not controlled by 9A001 or 9A101 and &#x201C;parts&#x201D; and &#x201C;components,&#x201D; n.e.s. (see List of Items Controlled).</P>
--<P>(ii) 9B990 Vibration test equipment and &#x201C;specially designed&#x201D; &#x201C;parts&#x201D; and &#x201C;components,&#x201D; n.e.s.</P>
--<P>(iii) 9D991 &#x201C;Software&#x201D;, for the &#x201C;development&#x201D; or &#x201C;production&#x201D; of equipment controlled by 9A991 or 9B991.</P>
--<P>(iv) 9E991 &#x201C;Technology&#x201D;, for the &#x201C;development&#x201D;, &#x201C;production&#x201D; or &#x201C;use&#x201D; of equipment controlled by 9A991 or 9B991.</P>
--<CITA TYPE="N">[85 FR 23464, Apr. 28, 2020, as amended at 86 FR 54812, Oct. 5, 2021]
-+<P>(i) 9A012 <E T="04">&#x201C;Unmanned Aerial Vehicles,&#x201D; (&#x201C;UAVs&#x201D;), unmanned &#x201C;airships&#x201D;, related equipment and &#x201C;components&#x201D;, controlled by 9A012.a.1 (see List of Items Controlled).</E></P>
-+<P>(ii) 9A991 &#x201C;Aircraft&#x201D;, n.e.s., and gas turbine engines not controlled by 9A001 or 9A101 and &#x201C;parts&#x201D; and &#x201C;components,&#x201D; n.e.s. (see List of Items Controlled).</P>
-+<P>(iii) 9B990 Vibration test equipment and &#x201C;specially designed&#x201D; &#x201C;parts&#x201D; and &#x201C;components,&#x201D; n.e.s.</P>
-+<P>(iv) 9D001 &#x201C;Software&#x201D;, not specified in 9D003 or 9D004, &#x201C;specially designed&#x201D; or modified for the &#x201C;development&#x201D; of equipment or &#x201C;technology&#x201D; controlled by 9A012.a.1.</P>
-+<P>(v) 9D002 &#x201C;Software&#x201D;, not specified in 9D003 or 9D004, &#x201C;specially designed&#x201D; or modified for the &#x201C;production&#x201D; of equipment controlled by 9A012.a.1.</P>
-+<P>(vi) 9D004 Other &#x201C;software&#x201D; for equipment controlled by 9A012.a.1.</P>
-+<P>(vii) 9D991 &#x201C;Software&#x201D;, for the &#x201C;development&#x201D; or &#x201C;production&#x201D; of equipment controlled by 9A991 or 9B991.</P>
-+<P>(viii) 9E001 &#x201C;Technology&#x201D; according to the General Technology Note for the &#x201C;development&#x201D; of equipment or &#x201C;software&#x201D;, controlled by 9A012.a.1.</P>
-+<P>(ix) 9E991 &#x201C;Technology&#x201D;, for the &#x201C;development&#x201D;, &#x201C;production&#x201D; or &#x201C;use&#x201D; of equipment controlled by 9A991 or 9B991.</P>
-+<CITA TYPE="N">[85 FR 23464, Apr. 28, 2020, as amended at 86 FR 54812, Oct. 5, 2021; 91 FR 52504, Aug. 14, 2026]
- </CITA>
- </DIV9>
- 
+@@ -2498,10 +2498,11 @@ Room 1318-20, 13F, Hollywood Plaza, 610 Nathan Road, Mong Kok Kowloon, Hong Kong
+ </TR>
+ <TR>
+ <TD class="left border-right-single"> </TD>
+-<TD class="left border-right-single">Arrow Electronics (Hong Kong) Co., Ltd., 2/F and 3/F, Green 18, Phase 2, Hong Kong Science Park, Hong Kong; and 20/F, Tower 2, Evergreen Plaza, 88 Container Port Road, Kwai Chung, Hong Kong; Lot 204, DD105, Castle Peak Road, Yuen Long, Hong Kong; and Unit 1003, Kerry Cargo Center, 55 Wing Kei Road, Kwai Chung, Hong Kong; and Units 11001-11008E &amp; 11001-110012W, 11th Floor, ATL Logistics Centre B, No. 8 Container Port Road South, Kwai Chung, Hong Kong; Unit 5001-5004W, 5th Floor, ATL Logistics Centre A, No. 8 Container Port Road South, Kwai Chung, Hong Kong; and Unit 5015E-5020E, 5th Floor, ATL Logistics Centre B, No. 8 Container Port Road South, Kwai Chung, Hong Kong.</TD>
++<TD class="left border-right-single">Arrow Electronics (Hong Kong) Co., Ltd., 20/F, Tower 2, Evergreen Plaza, 88 Container Port Road, Kwai Chung, Hong Kong; Lot 204, DD105, Castle Peak Road, Yuen Long, Hong Kong; <E T="03">and</E> Unit 1003, Kerry Cargo Center, 55 Wing Kei Road, Kwai Chung, Hong Kong; <E T="03">and</E> Unit 5001-5004W, 5th Floor, ATL Logistics Centre A, No. 8 Container Port Road South, Kwai Chung, Hong Kong; <E T="03">and</E> Unit 5015E-5020E, 5th Floor, ATL Logistics Centre B, No. 8 Container Port Road South, Kwai Chung, Hong Kong.</TD>
+ <TD class="left border-right-single">For all items subject to the EAR. (See &#xA7; 744.11 of the EAR)</TD>
+ <TD class="left border-right-single">Presumption of denial</TD>
+-<TD class="left">90 FR 48193, 10/9/25. 90 FR 50859, 11/12/25.
++<TD class="left">90 FR 48193, 10/9/25. 90 FR 50859 11/12/25.
++<br/>91 FR 54659, 08/24/26.
+ </TD>
+ </TR>
+ <TR>
+@@ -31089,14 +31090,6 @@ Suite Number 406, 4th Floor, Ibrahim Trade Tower, Plot Number 1, Block Number 6,
+ </TR>
+ <TR>
+ <TD class="left border-right-single"> </TD>
+-<TD class="left border-right-single">Atempo Proje Taahh&#xFC;t Ses ve G&#xF6;r&#xFC;nt&#xFC; Sistemleri Anonim &#x15E;irketi &#x130;stanbul &#x15E;ubesi, B&#xFC;lent Ecevit Bulvar&#x131; No: 141/A, Lara, Antalya, 07230, Turkey; <E T="03">and</E> Ta&#x15F;p&#x131;nar Mah. 2899 No: 5 &#x130;ncek G&#xF6;lba&#x15F;&#x131;, Ankara, Turkey; <E T="03">and</E> Esentepe Mah. Gazeteciler Sit. Yazarlar Sok. No: 10, &#x130;stanbul, Turkey.</TD>
+-<TD class="left border-right-single">For all items subject to the EAR. (See &#xA7;&#xA7; 734.9(g),<sup>3</sup> 746.8(a)(3), and 744.11 of the EAR)</TD>
+-<TD class="left border-right-single">Policy of denial for all items subject to the EAR. See &#xA7; 746.8(b)</TD>
+-<TD class="left">90 FR 44499, 9/16/25.
+-</TD>
+-</TR>
+-<TR>
+-<TD class="left border-right-single"> </TD>
+ <TD class="left border-right-single">Atlas Trade Dis Ticaret Limited, a.k.a., the following one alias:
+ <br/>&#x2014;Atlas Trade Dis Tic Ltd Sti.
+ <br/>
