@@ -2092,7 +2092,7 @@
 <SU>d</SU>
 </HEAD>
 <DIV width="100%"><DIV class="gpotbl_div">
-<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%" data-point-width="220">
 <CAPTION><P class="headnote">[From IAEA INFCIRC/225, Rev. 1]</P></CAPTION>
 <THEAD>
 <TR>
@@ -2203,7 +2203,7 @@
 <HEAD>Appendix P to Part 110&#x2014;Category 1 and 2 Radioactive Material
 </HEAD>
 <DIV width="100%"><DIV class="gpotbl_div">
-<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%" data-point-width="330">
 <CAPTION><P class="title">Table 1&#x2014;Import and Export Threshold Limits</P></CAPTION>
 <THEAD>
 <TR>

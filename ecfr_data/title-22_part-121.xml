@@ -35,8 +35,6 @@
 
 <DIV8 N="121.1" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-22/section-121.1&quot;,&quot;citation&quot;:&quot;22 CFR 121.1&quot;}">
 <HEAD>&#xA7; 121.1 The United States Munitions List.</HEAD>
-<XREF ID="20260828" REFID="10" AMDINSN="5">Link to an amendment published at 91 FR 55461, Aug. 28, 2026.</XREF>
-<XREF ID="20260918" REFID="14" AMDINSN="2">Link to an amendment published at 91 FR 59065, Sept. 18, 2026.</XREF>
 <XREF ID="20260723" REFID="25" AMDINSN="2">Link to an amendment published at 91 FR 46281, July 23, 2026.</XREF>
 <XREF ID="20260828" REFID="12" AMDINSN="3">Link to an amendment published at 91 FR 55462, Aug. 28, 2026.</XREF>
 <P>(a)-(b) [Reserved]</P>
@@ -696,7 +694,7 @@
 <P>* (5) Unmanned aerial vehicles (UAVs) specially designed to incorporate a defense article;</P>
 <P>* (6) [Reserved]</P>
 <P>* (7) Aircraft specially designed to incorporate a defense article for the purpose of performing an intelligence, surveillance, and reconnaissance function;</P>
-<P>* (8) Aircraft specially designed to incorporate a defense article for the purpose of performing an electronic warfare function; airborne warning and control aircraft; or aircraft specially designed to incorporate a defense article for the purpose of performing a command, control, and communications function;</P>
+<P>* (8) Aircraft specially designed to incorporate a defense article for the purpose of performing an electronic warfare function, excluding survivability-enhanced aircraft (see &#xA7; 121.0 of this subchapter); airborne warning and control aircraft; or aircraft specially designed to incorporate a defense article for the purpose of performing a command, control, and communications function;</P>
 <P>(9) Aircraft specially designed to incorporate a defense article for the purpose of performing an air refueling function;</P>
 <P>(10) Target drones;</P>
 <P>(11) [Reserved]</P>
@@ -1953,6 +1951,14 @@ illumination keyed to an interceptor seeker;</P>
 <P>This paragraph (a)(8) is applicable to those contracts and funding authorizations that are dated July 8, 2014, or later.</P></NOTE>
 <P>(9) Uncrewed, untethered vessels that have an anti-recovery (<I>e.g.,</I> scuttle or self-destruct) feature; or</P>
 <P>(10) Uncrewed, untethered vessels with a gross weight rating exceeding three-thousand pounds (3,000 lb), that are designed to operate without human interaction for longer than 24 hours or for more than seventy nautical miles (70 nmi).</P>
+<P>(9) Uncrewed, untethered vessels that have an anti-recovery (<I>e.g.,</I> scuttle or self-destruct) feature;</P>
+<P>(10) Uncrewed, untethered vessels with a gross weight rating exceeding three thousand pounds (3,000 lb) and not exceeding eight thousand pounds (8,000 lb), specially designed to both:</P>
+<P>(i) Operate without human interaction for longer than 24 hours or for more than seventy nautical miles (70 nmi); and</P>
+<P>(ii) Have capabilities for deviating from, determining, or planning a navigation route, other than: activating and following pre-planned routes using fixed waypoints, station-keeping, or performing collision avoidance maneuvers that adhere to the see-and-avoid principles of navigation regulations; or</P>
+<NOTE>
+<HED>Note 1 to paragraph (<E T="01">a</E>)(10)(ii):</HED>
+<P>An example of &#x201C;see-and-avoid principles of navigation regulations&#x201D; are those that implement relevant sections of the International Regulations for Preventing Collisions at Sea (COLREGs) such as Rules 5 (look-out), 8 (action to avoid collision), and 13 through 18 (various actions and responsibilities between vessels).</P></NOTE>
+<P>(11) Uncrewed, untethered vessels with a gross weight rating exceeding eight thousand pounds (8,000 lb), specially designed to operate without human interaction for longer than 24 hours or for more than seventy nautical miles (70 nmi).</P>
 <P>* (b) Engines, electric motors, and propulsion plants as follows:</P>
 <P>(1) Naval nuclear propulsion plants and prototypes, and special facilities for construction, support, and maintenance therefor (see also &#xA7; 120.5(c) of this subchapter for nuclear related controls);</P>
 <P>(2) Quick-reversing, liquid-cooled electric motors that are totally enclosed, have a power output greater than 0.75 MW (1,000 hp), and are specially designed for submarines.</P>
