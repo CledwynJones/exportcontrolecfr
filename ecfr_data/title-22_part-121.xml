@@ -12,8 +12,8 @@
 <HEAD>Enumeration of Articles</HEAD>
 <DIV8 N="121.0" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-22/section-121.0&quot;,&quot;citation&quot;:&quot;22 CFR 121.0&quot;}">
 <HEAD>&#xA7; 121.0 United States Munitions List description and definitions.</HEAD>
-<XREF ID="20260828" REFID="9" AMDINSN="4">Link to an amendment published at 91 FR 55461, Aug. 28, 2026.</XREF>
 <P>For a description of the U.S. Munitions List and its designations, including the use of asterisks and the parenthetical &#x201C;(MT)&#x201D;, see &#xA7; 120.10 of this subchapter. Within this part, the following definitions apply:</P>
+<P><I>ASE</I> means Aircraft Survivability Equipment.</P>
 <P><I>CCL.</I> See Commerce Control List.</P>
 <P><I>Commerce Control List</I> means the Commerce Control List in 15 CFR part 774, supplement no. 1.</P>
 <P><I>Department of Defense</I> means the U.S. Department of Defense.</P>
@@ -29,7 +29,24 @@
 <P>(iii) Integrated electronic warfare systems; or</P>
 <P>(iv) The ability to engage targets beyond visual range (BVR).</P>
 <P><I>Gross weight rating</I> means the maximum operating weight, or displacement, of the conveyance, including the fully configured weight of all fuel, fluids (excluding wet ballast open to the operating environment), payloads, other deployables or expendables (<I>e.g.,</I> countermeasures, other autonomous commodities, and torpedoes), and cargo.</P>
-<CITA TYPE="N">[90 FR 5601, Jan. 17, 2025, as amended at 90 FR 41784, Aug. 27, 2025]
+<P><I>Secured ASE</I> means a system or equipment that meets all of the following conditions:</P>
+<P>(1) Is one of the following defense articles designed for the purpose of aircraft survivability:</P>
+<P>(i) Directed/directional infrared countermeasures (DIRCM) systems; or</P>
+<P>(ii) Infrared or ultraviolet missile warning systems necessary for the operation of DIRCM;</P>
+<P>(2) Is incorporated into an aircraft; and</P>
+<P>(3) Employs anti-tamper measures to deter, delay, and detect access to, or exploitation of, critical system components and software.</P>
+<P><I>Survivability-enhanced aircraft</I> means a manned aircraft meeting all of the following criteria:</P>
+<P>(1) Prior to the modifications described in paragraph (2) of this definition, was an aircraft in production that:</P>
+<P>(i) Is not described on the USML;</P>
+<P>(ii) Is described only in ECCN 9A991.b; and</P>
+<P>(iii) Was issued either:</P>
+<P>(A) A type certificate by the U.S. Federal Aviation Administration as a transport airplane or small commuter airplane, or</P>
+<P>(B) An equivalent certification by the civil aviation authorities of one or more North Atlantic Treaty Organization member states or major non-NATO allies;</P>
+<P>(2) Has been modified to facilitate the incorporation of one or more items of secured ASE as defined in this section;</P>
+<P>(3) But for the modifications performed to incorporate secured ASE, would not be described in paragraph (a)(8) of USML Category VIII; and</P>
+<P>(4) Is not described in any USML paragraph other than paragraph (a)(8) of USML Category VIII.</P>
+<P><I>USML</I> means the United States Munitions List in &#xA7; 121.1.</P>
+<CITA TYPE="N">[90 FR 5601, Jan. 17, 2025, as amended at 90 FR 41784, Aug. 27, 2025; 91 FR 55461, Aug. 28, 2026]
 </CITA>
 </DIV8>
 
@@ -1949,8 +1966,6 @@ illumination keyed to an interceptor seeker;</P>
 <NOTE>
 <HED>Note 3 to paragraph (<E T="01">a</E>)(8):</HED>
 <P>This paragraph (a)(8) is applicable to those contracts and funding authorizations that are dated July 8, 2014, or later.</P></NOTE>
-<P>(9) Uncrewed, untethered vessels that have an anti-recovery (<I>e.g.,</I> scuttle or self-destruct) feature; or</P>
-<P>(10) Uncrewed, untethered vessels with a gross weight rating exceeding three-thousand pounds (3,000 lb), that are designed to operate without human interaction for longer than 24 hours or for more than seventy nautical miles (70 nmi).</P>
 <P>(9) Uncrewed, untethered vessels that have an anti-recovery (<I>e.g.,</I> scuttle or self-destruct) feature;</P>
 <P>(10) Uncrewed, untethered vessels with a gross weight rating exceeding three thousand pounds (3,000 lb) and not exceeding eight thousand pounds (8,000 lb), specially designed to both:</P>
 <P>(i) Operate without human interaction for longer than 24 hours or for more than seventy nautical miles (70 nmi); and</P>
